@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Payal Mohanty, Ph.D.</h1>
+<h1 align="center">Hi 👋, I'm Payal Mohanty, Ph.D.Physics</h1>
 <h3 align="center">👨‍💻 Aspiring Data Scientist | 🌱 Passionate Learner</h3>
 
 - 🔭 I’m currently working on **Building up my GitHub profile for Data science project**
