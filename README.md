@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://keras.io/img/logo.png" alt="keras" width="40" height="40"/>
+    <img src="https://en.m.wikipedia.org/wiki/File:Keras_logo.svg" alt="keras" width="40" height="40"/>
   </a>
 </p>
 
