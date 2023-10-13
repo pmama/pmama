@@ -26,9 +26,9 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-   <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.png" alt="keras" width="40" height="40"/>
-  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://via.placeholder.com/40x40" alt="keras" width="40" height="40"/>
+</a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
