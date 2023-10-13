@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building up my GitHub profile for Data science project**
 
-- 🌱 I’m currently learning **Python, ML, DL, SQL, NoSQL, TABLEAU**
+- 🌱 I’m currently learning **Python, MachineLearning, DeepLearnning (DNN,CNN, RNN), SQL, NoSQL, TABLEAU, TimeSeries**
 
 - 👯 I’m looking to collaborate on **open to projects**
 
