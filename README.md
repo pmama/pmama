@@ -29,6 +29,12 @@
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://en.m.wikipedia.org/wiki/File:Keras_logo.svg" alt="keras" width="40" height="40"/>
   </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="tableau" width="40" height="40"/>
+  </a>
 </p>
 
 
