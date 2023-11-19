@@ -35,6 +35,9 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="tableau" width="40" height="40"/>
   </a>
+  <a href="https://www.https://opencv.org//" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png" alt="OpenCV" width="40" height="40"/>
+  </a>
 </p>
 
 
