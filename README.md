@@ -9,7 +9,7 @@ As a former Physics researcher with expertise in mathematical modeling and data 
 
 - 👯 I’m looking to collaborate on **open to projects**
 
-- 📫 How to reach me **connect on LinkedIn**
+- 📫 How to reach me **connect on LinkedIn**, and **Upwork**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
